@@ -1,1 +1,1 @@
-TEAM-4-AI-FAQ-Assistant-FAQ
+TEAM-4-AI-FAQ-Assistant-API
